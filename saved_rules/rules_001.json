@@ -1,0 +1,9 @@
+[
+  {
+    "source": "tree",
+    "target": "burning_tree",
+    "neighbor_type": "burning_tree",
+    "operator": ">=",
+    "count": 2
+  }
+]

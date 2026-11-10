@@ -1,0 +1,5 @@
+[
+  {"source": "OFF", "target": "FIRING", "neighbor_type": "FIRING", "operator": "==", "count": 2},
+  {"source": "FIRING", "target": "DYING"},
+  {"source": "DYING", "target": "OFF"}
+]
